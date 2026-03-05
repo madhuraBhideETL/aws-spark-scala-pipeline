@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.18":{"hashes":[["D:\\IdeaProjects\\aws-spark-scala-pipeline\\modules\\ingest-app\\src\\test\\scala\\com\\madhura\\pipeline\\ingest\\MainSpec.scala","9daf82150f686b9da0ad2f6963ac7680be9fbb20"]],"lastModifiedTimes":[]}}]
